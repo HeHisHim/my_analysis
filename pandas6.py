@@ -44,5 +44,3 @@ V3
 def filter_V3():
     # print(type(movies.duration >= 200))  # -- <class 'pandas.core.series.Series'>
     print(movies[movies.duration >= 200])
-
-
