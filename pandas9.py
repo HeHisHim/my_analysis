@@ -1,3 +1,6 @@
+"""
+在pandas使用str的方法
+"""
 import pandas as pd
 
 orders = pd.read_csv("data/chipotle.tsv", sep = "\t")
