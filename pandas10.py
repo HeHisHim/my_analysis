@@ -2,7 +2,6 @@
 改变pandas数据列的数据类型
 """
 import pandas as pd
-
 drinks = pd.read_csv("data/drinks.csv")
 
 """
